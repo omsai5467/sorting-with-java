@@ -1,4 +1,9 @@
 
+
+// it is a java file collection of sorting Algorithams
+// in this file i created a simpe sortig algoriths
+// sorting algorithm that are implenmented in
+// 1.bubbleSort 2.Selection sort 3.Merge sort 4.quickSort algorithams are implemented in easyest way
 // java in sorting
 import java.util.Random;
 import java.util.Scanner;
